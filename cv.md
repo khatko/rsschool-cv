@@ -19,6 +19,7 @@ Hobby: jogging, reading books and travelling.*
 |---|---|
 |Email|n.khatkovskaya@gmail.com|
 |Skype|n.khatkovskaya|
+|LinkedIn|[nkhatkovskaya](https://www.linkedin.com/in/nkhatkovskaya/)|
 
 ### **Key skills**
 - Java

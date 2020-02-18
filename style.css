@@ -43,6 +43,10 @@ section aside {
   margin-right: 15px;
 }
 
+section aside table {
+  margin-top: 5px;
+}
+
 section {
   clear: left;
   overflow: auto;

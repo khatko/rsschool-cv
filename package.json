@@ -1,0 +1,28 @@
+{
+  "name": "rsschool-cv",
+  "version": "1.0.0",
+  "description": "HTML, CSS & Git Basics task ",
+  "main": "index.js",
+  "scripts": {
+    "htmlcheck": "htmlhint ./*.html",
+    "csscheck": "stylelint ./*.css",
+    "csstransform": "csscomb ./",
+    "test": "npm run csstransform && npm run csscheck && npm run htmlcheck"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khatko/rsschool-cv.git"
+  },
+  "author": "khatko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khatko/rsschool-cv/issues"
+  },
+  "homepage": "https://github.com/khatko/rsschool-cv#readme",
+  "devDependencies": {
+    "csscomb": "^4.3.0",
+    "htmlhint": "^0.11.0",
+    "stylelint": "^13.2.0",
+    "stylelint-config-htmlacademy": "^0.1.4"
+  }
+}

@@ -1,11 +1,11 @@
 html,
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Arial", "Helvetica", sans-serif;
 }
 
 a {
-  text-decoration: none;
   color: #191970;
+  text-decoration: none;
 }
 
 h3 {
@@ -25,6 +25,7 @@ header {
 header nav ul {
   margin: 0;
   padding: 0;
+
   text-align: left;
 }
 
@@ -50,4 +51,3 @@ section {
 section main p {
   padding-left: 10px;
 }
-
